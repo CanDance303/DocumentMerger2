@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7A3749BE-1F09-4443-98B3-CCCB9B7D67EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DocumentMerger2/Program.cs">
+    <Files>
+      <File FileName="DocumentMerger2/Program.cs" Line="13" Column="132" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DocumentMerger2" expanded="True">
+            <Node name="DocumentMerger2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DocumentMerger2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
